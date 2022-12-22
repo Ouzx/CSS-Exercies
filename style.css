@@ -1,0 +1,19 @@
+.container {
+  border: 1px solid gray;
+  border-radius: 5px;
+  width: 250px;
+}
+
+.row {
+  border-bottom: 1px solid gray;
+  padding: 10px;
+}
+
+#links {
+  border-bottom: none;
+}
+
+a {
+  padding-right: 10px;
+  color: deepskyblue;
+}
