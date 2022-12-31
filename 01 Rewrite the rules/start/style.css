@@ -1,0 +1,17 @@
+:root {
+  --bg: #011212;
+  --foreColor: #ff8800;
+  --x2: 100px;
+  --x: 50px;
+}
+
+body {
+  background-color: var(--bg);
+}
+
+.ball {
+  width: var(--x2);
+  height: var(--x2);
+  background-color: var(--foreColor);
+  border-radius: var(--x);
+}
